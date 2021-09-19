@@ -7,7 +7,6 @@ Our project's name is " Fault detection and Seperation" as the name tells our pr
 #include <Servo.h>
 LiquidCrystal_I2C lcd(0x27,20,4);
 Servo tap_servo;
-
 int sensor_pin = 4;
 int tap_servo_pin =5;
 int val;
