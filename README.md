@@ -1,5 +1,5 @@
 # Fault-Detection-and-seperation-
-Our project's name is " Fault detection and Seperation" as the name tells our project detects the faulty product and seperates it from the perfect ones.
+As the project's name is " Fault detection and Seperation" as the name tells our project detects the faulty product and seperates it from the perfect ones.
 ## CODE
 
 #include <Wire.h> 
